@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Pryaniki/static/css/main.ca328605.chunk.css",
-    "main.js": "/Pryaniki/static/js/main.65b30e17.chunk.js",
-    "main.js.map": "/Pryaniki/static/js/main.65b30e17.chunk.js.map",
+    "main.js": "/Pryaniki/static/js/main.4b536225.chunk.js",
+    "main.js.map": "/Pryaniki/static/js/main.4b536225.chunk.js.map",
     "runtime-main.js": "/Pryaniki/static/js/runtime-main.5e3bbc48.js",
     "runtime-main.js.map": "/Pryaniki/static/js/runtime-main.5e3bbc48.js.map",
     "static/js/2.4425f375.chunk.js": "/Pryaniki/static/js/2.4425f375.chunk.js",
     "static/js/2.4425f375.chunk.js.map": "/Pryaniki/static/js/2.4425f375.chunk.js.map",
     "index.html": "/Pryaniki/index.html",
-    "precache-manifest.acce99a22609b9c0eb68d37022dcbe90.js": "/Pryaniki/precache-manifest.acce99a22609b9c0eb68d37022dcbe90.js",
+    "precache-manifest.bc4bbc73dc00fa01e07108a9c9045d10.js": "/Pryaniki/precache-manifest.bc4bbc73dc00fa01e07108a9c9045d10.js",
     "service-worker.js": "/Pryaniki/service-worker.js",
     "static/css/main.ca328605.chunk.css.map": "/Pryaniki/static/css/main.ca328605.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.5e3bbc48.js",
     "static/js/2.4425f375.chunk.js",
     "static/css/main.ca328605.chunk.css",
-    "static/js/main.65b30e17.chunk.js"
+    "static/js/main.4b536225.chunk.js"
   ]
 }

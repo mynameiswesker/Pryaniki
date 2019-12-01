@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02863707f1a8efc32c3f75d37fbf5093",
+    "revision": "76990d26d062658f7911f9cb49d98b7b",
     "url": "/Pryaniki/index.html"
   },
   {
-    "revision": "957608dbbcc03d373429",
+    "revision": "28a127708a71907809a3",
     "url": "/Pryaniki/static/css/main.ca328605.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pryaniki/static/js/2.4425f375.chunk.js"
   },
   {
-    "revision": "957608dbbcc03d373429",
-    "url": "/Pryaniki/static/js/main.65b30e17.chunk.js"
+    "revision": "28a127708a71907809a3",
+    "url": "/Pryaniki/static/js/main.4b536225.chunk.js"
   },
   {
     "revision": "1726c0e84975b761b782",
