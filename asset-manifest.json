@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Pryaniki/static/css/main.ca328605.chunk.css",
+    "main.js": "/Pryaniki/static/js/main.827239ed.chunk.js",
+    "main.js.map": "/Pryaniki/static/js/main.827239ed.chunk.js.map",
+    "runtime-main.js": "/Pryaniki/static/js/runtime-main.5e3bbc48.js",
+    "runtime-main.js.map": "/Pryaniki/static/js/runtime-main.5e3bbc48.js.map",
+    "static/js/2.4425f375.chunk.js": "/Pryaniki/static/js/2.4425f375.chunk.js",
+    "static/js/2.4425f375.chunk.js.map": "/Pryaniki/static/js/2.4425f375.chunk.js.map",
+    "index.html": "/Pryaniki/index.html",
+    "precache-manifest.3e05d22af82a68062ddb50740fee038a.js": "/Pryaniki/precache-manifest.3e05d22af82a68062ddb50740fee038a.js",
+    "service-worker.js": "/Pryaniki/service-worker.js",
+    "static/css/main.ca328605.chunk.css.map": "/Pryaniki/static/css/main.ca328605.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e3bbc48.js",
+    "static/js/2.4425f375.chunk.js",
+    "static/css/main.ca328605.chunk.css",
+    "static/js/main.827239ed.chunk.js"
+  ]
+}
