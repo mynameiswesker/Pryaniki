@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Pryaniki/precache-manifest.bc4bbc73dc00fa01e07108a9c9045d10.js"
+  "/Pryaniki/precache-manifest.f2147668a8f37cff1a5733127141d605.js"
 );
 
 self.addEventListener('message', (event) => {

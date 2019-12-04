@@ -1,5 +1,5 @@
 {
-    "days":["./pictures/pic_day_1.png","./pictures/pic_day_2.png"],
-    "months": ["./pictures/pic_month_1.png","./pictures/pic_month_2.png"],
-    "years": ["./pictures/pic_year_1.png","./pictures/pic_year_2.png"]
+    "days":["../pictures/pic_day_1.png","../pictures/pic_day_2.png",[12,9,3,20,1,8]],
+    "months": ["../pictures/pic_month_1.png","../pictures/pic_month_2.png",[3,19,8,0,5,13]],
+    "years": ["../pictures/pic_year_1.png","../pictures/pic_year_2.png",[19,15,12,20,10,8]]
 }
