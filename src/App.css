@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  display: inline-block;
+  margin-right: 10px;
+}
+
+li:last-child{
+  margin-right:0;
+}
+
+button{
+  width: 100px;
+  height: 50px;
+  background: rgba(147, 88, 146, 0.71);
+  border-radius: 8px;
+  border: 1px solid #5f3c5e;
+  color: #ffffff;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+.Graph{
+  width: 60%;
+  margin: auto;
+}

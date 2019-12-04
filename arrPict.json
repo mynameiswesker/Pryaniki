@@ -1,0 +1,5 @@
+{
+    "days":["./pictures/pic_day_1.png","./pictures/pic_day_2.png"],
+    "months": ["./pictures/pic_month_1.png","./pictures/pic_month_2.png"],
+    "years": ["./pictures/pic_year_1.png","./pictures/pic_year_2.png"]
+}
